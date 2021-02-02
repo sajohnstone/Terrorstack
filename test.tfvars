@@ -1,1 +1,1 @@
-project_name="sample org"
+project_name="sample-org"

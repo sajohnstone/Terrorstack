@@ -23,3 +23,7 @@ To restart everything from scratch
 ```bash
 make clean 
 ```
+
+## Dashboard
+
+You can view the dashboard from [here](http://localhost:8000/#!/infra)
